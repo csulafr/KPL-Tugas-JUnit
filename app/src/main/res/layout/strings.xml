@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kalkulator Sederhana</string>
+    <string name="hint_input1">Angka pertama</string>
+    <string name="hint_input2">Angka kedua</string>
+    <string name="button_hitung">Hitung</string>
+    <string name="hasil_default">Hasil akan muncul di sini</string>
+</resources>
